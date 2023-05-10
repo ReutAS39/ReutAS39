@@ -7,7 +7,7 @@
 
  ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
-title="django" width="40" height="40"/>&nbsp
+title="django" width="40" height="40"/>&nbsp;
           
   
   
