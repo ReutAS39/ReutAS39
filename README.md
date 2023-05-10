@@ -14,7 +14,9 @@ title="python" width="40" height="40"/>&nbsp;
 title="django" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
 title="postgressql" width="40" height="40"/>&nbsp;
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"
+title="pycharm" width="40" height="40"/>&nbsp;
+                    
 
           
   
