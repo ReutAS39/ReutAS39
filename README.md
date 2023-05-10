@@ -12,7 +12,9 @@
 title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"
 title="django" width="40" height="40"/>&nbsp;
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+title="postgressql" width="40" height="40"/>&nbsp;
+                   
   
 
           
