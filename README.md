@@ -1,8 +1,15 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Aleksandr</h1> 
   <h3>Backend Developer from Kaliningrad</h3>
-
+</div>
+  
+<div id="socials" align="center">
+  <a href="telegram-url">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>  
 ---
+  
 ### Languages and tools
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
@@ -17,6 +24,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReutAS39&theme=github_dark" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReutAS39&theme=github_dark" alt=""/>
 </div>
+  
 ---          
   
 <!--
