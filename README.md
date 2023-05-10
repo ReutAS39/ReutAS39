@@ -6,7 +6,7 @@
   <h3>Backend Developer from Kaliningrad</h3>
 
  ### Languages and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg""
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"
 title="django" width="40" height="40"/>&nbsp;
           
   
