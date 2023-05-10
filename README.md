@@ -6,10 +6,12 @@
   <h3>Backend Developer from Kaliningrad</h3>
 
  ### Languages and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg""
 title="django" width="40" height="40"/>&nbsp;
           
   
+
+          
   
 <!--
 **ReutAS39/ReutAS39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
