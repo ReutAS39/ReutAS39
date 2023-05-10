@@ -17,7 +17,13 @@ title="postgressql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"
 title="pycharm" width="40" height="40"/>&nbsp;
                     
+### My stat
 
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReutAS39&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReutAS39&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReutAS39&theme=github_dark" alt=""/>
+</div>
           
   
 <!--
